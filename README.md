@@ -7,5 +7,5 @@ Simulations are organized in a folder, with the following subfolders : 'data', '
 
 Documentation can be found at : http://wiki.opengatecollaboration.org/index.php/Users_Guide_V7.1
 
-Follow the following exercices and provide a written report. The general idea it to try to understand every commands in the macro files to be able to analyze the results.
+Follow the following exercises and provide a written report. The general idea it to try to understand every commands in the macro files to be able to analyze the results.
 
