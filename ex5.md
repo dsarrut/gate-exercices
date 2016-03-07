@@ -15,5 +15,5 @@ Replace the 3D dose actor with a 1D dose depth profile (and associated uncertain
 
 ### Step 3 
 
-An improvement of the TLE method has been recently proposed. This method is named seTLE and include splitting. Execute and comment the macro 'main-setle.max' that uses this seTLE method (described in Smekens2014.pdf). Compare the number of simulated particle per second (PPS in the stat file), compare the dose convergence and the uncertainty.
+An improvement of the TLE method has been recently proposed. This method is named seTLE and include splitting. Execute and comment the macro 'main-setle.max' that uses this seTLE method (described in [[Smekens2014]](https://www.creatis.insa-lyon.fr/site/en/publications/SMEK-14)). Compare the number of simulated particle per second (PPS in the stat file), compare the dose convergence and the uncertainty.
 
