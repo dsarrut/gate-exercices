@@ -9,7 +9,7 @@ Perform a simulation, analyze the results.
 
 ### Step 2
 
-Create from scratch a simple simulation that allow you to obtain the Energy spectrum of the Yttrium-90 in water. 
+Create from scratch a simple simulation that allow you to get the Energy spectrum of the Yttrium-90 in water. 
 
 ### Step 3
 
