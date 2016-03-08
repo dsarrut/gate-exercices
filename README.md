@@ -7,4 +7,6 @@ Documentation can be found at : http://wiki.opengatecollaboration.org/index.php/
 
 Follow the following exercises and provide a written report. The general idea it to try to understand every commands in the macro files to be able to analyze the results.
 
+Simulations macros may be found here: https://gitlab.com/dsarrut/gate-courses (you can download the zip file or clone the git repository). 
+
 
