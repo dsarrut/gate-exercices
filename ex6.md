@@ -13,7 +13,7 @@ Create from scratch a simple simulation that allow you to get the Energy spectru
 
 ### Step 3
 
-Change the voxelized source to a simple ponctual source in the middle of the patient. Then change the radionuclide, for example by using Lutetium-177 or Iode-131 or any radionuclides you like in http://www.nucleide.org/DDEP_WG/DDEPdata.htm.
+Change the voxelized source to a simple ponctual source in the middle of the patient. Then, change the radionuclide, for example by using Lutetium-177 or Iode-131 or any radionuclides you like in http://www.nucleide.org/DDEP_WG/DDEPdata.htm.
 
 What are the differences in absorbed dose according to the radionuclides ?
 
