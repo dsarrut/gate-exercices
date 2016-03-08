@@ -9,4 +9,10 @@ Follow the following exercises and provide a written report. The general idea it
 
 Simulations macros may be found here: https://gitlab.com/dsarrut/gate-courses (you can download the zip file or clone the git repository). 
 
+Others documents:
+- Slides: https://www.creatis.insa-lyon.fr/~dsarrut/dqprm/simulation-dqprm-2016.pdf
+- Linux command line help: 
+  - http://www.cheatography.com/kesavanbr/cheat-sheets/pocket-guide-linux-commands/
+  - http://www.cheatography.com/davechild/cheat-sheets/linux-command-line/  
+- List of radionuclides: http://www.nucleide.org/DDEP_WG/DDEPdata.htm
 
