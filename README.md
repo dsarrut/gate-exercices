@@ -13,6 +13,11 @@ Others documents:
 - Gate documentation can be found [here](http://wiki.opengatecollaboration.org/index.php/Users_Guide_V7.2)
 - List of [radionuclides](http://www.nucleide.org/DDEP_WG/DDEPdata.htm)
 - Page of image viewer [vv](http://vv.creatis.insa-lyon.fr)
-- Page of [root](https://root.cern.ch)
-- 
+
+To analyse simulations, you need additional software. For example: 
+- Nuclear physics toolkit [root](https://root.cern.ch)
+- Simple and fast plot [gnuplot](http://www.gnuplot.info)
+- Complete matlab like langage: [python](https://www.python.org) with scientific module: [scipy](http://www.scipy.org)
+
+
 
