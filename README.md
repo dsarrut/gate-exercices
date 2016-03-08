@@ -20,4 +20,5 @@ To analyze simulations, you need additional software. For example:
 - Complete matlab like langage: [python](https://www.python.org) with scientific module: [scipy](http://www.scipy.org)
 
 
+Question ? [david.sarrut@creatis.insa-lyon.fr](david.sarrut@creatis.insa-lyon.fr)
 
