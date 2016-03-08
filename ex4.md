@@ -8,6 +8,8 @@ Go into folder ```linac``` and run the simulations ```Gate mac/main.mac```.
 
 This simulation describe the irradiation of a waterbox from the linac head from the electron source. Look a the geometry and describe what is simulated. Explain the source. Explain the physical processes that occur. Investigate the time needed to obtain a dose distribution in the waterbox with a correct statistical uncertainty.
 
+![](linac.png)
+
 ### Step 2
 
 Now run the simulation ```Gate mac/main-write-PhS.mac```.
