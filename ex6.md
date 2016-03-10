@@ -22,21 +22,20 @@ In GATE, a source of a radionuclide is defined with some macro like:
     /gate/source/Yttrium/gps/energy 0 MeV
 ```
 
-Dont forget to add thea radioactive decay process:
+Do not forget to add the radioactive decay process:
 
 ```
     /gate/physics/addProcess RadioactiveDecay
     /gate/physics/addPhysicsList emstandard_opt3
 ```
 
-Also analyse the emitted e- and gamma from other radionuclides used for treatment, for example Lutetium-177 or Iode-131. You may also consider radionuclides used for imaging: Indium-111 (spect), Gallium-68 (pet) or Fluor-18 (pet).
+Analyze the emitted e- and gamma from other radionuclides used for treatment, for example Lutetium-177 or Iode-131. You may also consider radionuclides used for imaging: Indium-111 (spect), Gallium-68 (pet) or Fluor-18 (pet).
 
 Information can be found on http://www.nucleide.org/DDEP_WG/DDEPdata.htm.
 
 ### Step 2
 
 Modify the previous simulations in order to plot the depth dose curve of the radionuclides in water. You may have to change the direction of emission of the source along a defined direction. Consider a depth resolution of for example, 0.2 mm.
-
 
 What are the differences in absorbed dose according to the radionuclides ?
 
