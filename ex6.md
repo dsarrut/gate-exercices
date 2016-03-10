@@ -8,7 +8,7 @@ Targeted radionuclide therapy (TRT) delivers radiation to lesions by administrat
 
 To start, we first study some radionuclides. Create from scratch a simple simulation that allow you to get the energy spectrum of the e- emitted by a source of Yttrium-90 in a vacuum. Energy spectrum may be recorded with a  ```EnergySpectrumActor``` or a ```PhaseSpaceActor```. Plot the energy spectrum.
 
-In GATE, source of a radionuclide is defined with some macro like:
+In GATE, a source of a radionuclide is defined with some macro like:
 
 ```
     /gate/source/addSource Yttrium
