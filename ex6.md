@@ -29,6 +29,8 @@ Do not forget to add the radioactive decay process:
     /gate/physics/addPhysicsList emstandard_opt3
 ```
 
+Use a [Filter](http://wiki.opengatecollaboration.org/index.php/Users_Guide_V7.2:Readout_parameters_for_Radiotherapy_applications:_Actors#Filters) to record separately the energy spectrums for e- and gamma.
+
 Analyze the emitted e- and gamma from other radionuclides used for treatment, for example Lutetium-177 or Iode-131. You may also consider radionuclides used for imaging: Indium-111 (spect), Gallium-68 (pet) or Fluor-18 (pet).
 
 Information can be found on http://www.nucleide.org/DDEP_WG/DDEPdata.htm.
