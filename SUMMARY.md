@@ -8,4 +8,6 @@
 * [Exercice5](ex5.md)
 * [Exercice6](ex6.md)
 * [Exercice7](ex7.md)
+* [Exercice8](ex8.md)
+
 
