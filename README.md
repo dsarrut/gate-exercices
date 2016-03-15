@@ -22,8 +22,14 @@ To analyze simulations, you need additional software. For example:
 
 Question ? [david.sarrut@creatis.insa-lyon.fr](david.sarrut@creatis.insa-lyon.fr)
 
+Source codes:
+- GATE : https://github.com/OpenGATE/Gate
+- Geant4: http://geant4.cern.ch/support/download.shtml 
 
-DQPRM 2016: add the following lines at the end of the file ```.bashrc```.
+
+**DQPRM 2016** 
+
+Add the following lines at the end of the file ```.bashrc```.
 
 ```
 export LD_LIBRARY_PATH=/usr/local/clhep_2.1.1.0/lib/:$LD_LIBRARY_PATH
