@@ -20,5 +20,19 @@ To analyze simulations, you need additional software. For example:
 - Simple and fast plot [gnuplot](http://www.gnuplot.info)
 - Complete matlab like langage: [python](https://www.python.org) with scientific module: [scipy](http://www.scipy.org)
 
-
 Question ? [david.sarrut@creatis.insa-lyon.fr](david.sarrut@creatis.insa-lyon.fr)
+
+
+DQPRM 2016: add the following lines at the end of the file ```.bashrc```.
+
+```
+  source /opt/root-5.34/bin/thisroot.sh
+  source /usr/local/geant4.10.2.p01-install/bin/geant4.sh
+  export PATH=${PATH}:/usr/local/geant4.10.2.p01-install/bin
+  export LD_LIBRARY_PATH=${LD_LIBRARY_PATH}:/usr/local/geant4.10.2.p01-install/lib64
+  export PATH=$PATH:/usr/local/gate_v7.2-install/bin
+```
+
+
+
+
