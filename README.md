@@ -32,12 +32,11 @@ Source codes:
 Add the following lines at the end of the file ```.bashrc```.
 
 ```
-export LD_LIBRARY_PATH=/usr/local/clhep_2.1.1.0/lib/:$LD_LIBRARY_PATH
 source /opt/root-5.34/bin/thisroot.sh
-source /usr/local/geant4.10.2.p01-install/bin/geant4.sh
-export PATH=${PATH}:/usr/local/geant4.10.2.p01-install/bin
-export LD_LIBRARY_PATH=${LD_LIBRARY_PATH}:/usr/local/geant4.10.2.p01-install/lib64
-export PATH=/usr/local/gate_v7.2-install/bin:$PATH
+source /usr/local/simu/geant4.10.02.p01-install/bin/geant4.sh
+export PATH=${PATH}:/usr/local/simu/geant4.10.2.p01-install/bin
+export LD_LIBRARY_PATH=${LD_LIBRARY_PATH}:/opt/qt5/5.2.0/gcc_64/lib/:/usr/local/simu/geant4.10.2.p01-install/lib64
+export PATH=/usr/local/simu/Gate-v7.2-install/bin:$PATH
 ```
 
 
