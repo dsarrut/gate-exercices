@@ -19,6 +19,11 @@ Gate/G4 manages its own coordinate system (world center). The origin of the imag
 However, two additional features are available within Gate:
 
 - the macro ```TranslateTheImageAtThisIsoCenter``` allows to translate an image according to a coordinate given in the image coordinate system (thus taking the image origin into account). This is very convenient: just open the image with ```vv```for example, click on a pixel and note its physical coordinates (in mm). Report this value in GATE: the image will be located in the world such as this pixel is at the center of the world (0,0,0). 
+
+```
+/gate/patient/geometry/TranslateTheImageAtThisIsoCenter 109.7 99.3 146.2 mm
+```
+
 - when an actor, in particular a ```DoseActor``` is attached to an image, the resulting dose images will be written on disk by taking into account the origin of the image. Hence, it will be easy to overlay the dose on the image. 
 
 
