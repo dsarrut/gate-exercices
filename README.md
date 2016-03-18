@@ -27,6 +27,7 @@ Source codes:
 - Geant4: http://geant4.cern.ch/support/download.shtml 
 
 
+<!---
 **DQPRM 2016** 
 
 Add the following lines at the end of the file ```.bashrc```.
@@ -38,6 +39,7 @@ export PATH=${PATH}:/usr/local/simu/geant4.10.2.p01-install/bin
 export LD_LIBRARY_PATH=${LD_LIBRARY_PATH}:/opt/qt5/5.2.0/gcc_64/lib/:/usr/local/simu/geant4.10.2.p01-install/lib64
 export PATH=/usr/local/simu/Gate-v7.2-install/bin:$PATH
 ```
+-->
 
 
 
