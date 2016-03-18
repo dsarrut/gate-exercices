@@ -1,4 +1,4 @@
-# Exercice 6
+# Exercise 6
 
 
 Targeted radionuclide therapy (TRT) delivers radiation to lesions by administration of radiolabeled molecular agents designed to specifically concentrate into targets. We want now to create a simulation of such a treatment (internal radiation therapy).
