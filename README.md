@@ -10,6 +10,7 @@ For advanced user, the complete source code is available as a [git repository](h
 
 Others documents:
 
+* Click [here for a pdf](https://www.gitbook.com/download/pdf/book/dsarrut/gate-exercises) version of this ebook
 * [Slides](https://gitlab.in2p3.fr/david.sarrut/gate-exercices/blob/b7383664e69deca32db7b5e8cd3bfa9c4d1e7cdc/slides/simulation-dqprm-2016.pdf)
 * Linux command line help: [Pocket guide](http://www.cheatography.com/kesavanbr/cheat-sheets/pocket-guide-linux-commands) or [Cmd line](http://www.cheatography.com/davechild/cheat-sheets/linux-command-line)
 * Gate documentation can be found [here](http://wiki.opengatecollaboration.org/index.php/Users_Guide_V7.2)

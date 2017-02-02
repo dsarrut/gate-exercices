@@ -13,7 +13,7 @@ In most of the macro, you can enable visualization with two steps: 1) uncomment 
 
 ### Step 2
 
-Change the number of simulated particles (primaries Events). What are the changes regarding the results ? Comment the computing time, the uncertainties. Analyze a bit deeper the ```gamma-stat.txt``` file, what can be said about the Events/Tracks/Steps ? How to estimate the number of particles needed to reach 1% uncertainty in a given region of interest ?
+Change the number of simulated particles (primaries Events). What are the changes regarding the results? Comment the computing time, the uncertainties. Analyze a bit deeper the ```gamma-stat.txt``` file, what can be said about the Events/Tracks/Steps ? How to estimate the number of particles needed to reach 1% uncertainty in a given region of interest ?
 
 ### Step 3
 
