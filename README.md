@@ -6,7 +6,7 @@ Simulations are organized in a folder, with the following subfolders : `data`, `
 
 Follow the following exercises and provide a written report. The general idea it to try to understand every commands in the macro files to be able to analyze the results. Simulations macros may be found in this [zip](https://gitlab.in2p3.fr/david.sarrut/gate-exercices/repository/archive.zip?ref=1.0). 
 
-For advanced user, the complete source code is available on git: https://gitlab.in2p3.fr/david.sarrut/gate-exercices. Required git-lfs. 
+For advanced user, the complete source code is available as a [git repository](https://gitlab.in2p3.fr/david.sarrut/gate-exercices). Required git-lfs. 
 
 Others documents:
 
