@@ -6,4 +6,6 @@ Modify the beam to shoot 100 MeV proton instead of gamma (```ex3.mac```). Note t
 
 Observe the difference with dose from photon beam. 
 
-Also comment the time, track/steps, uncertainty.
+Also comment the time, the numbers of track/steps, the uncertainty.
+
+
