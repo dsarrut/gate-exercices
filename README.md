@@ -27,6 +27,7 @@ Question ? [david.sarrut@creatis.insa-lyon.fr](david.sarrut@creatis.insa-lyon.fr
 
 Source codes:
 
+* Browse the code of the [exercices](https://gitlab.in2p3.fr/david.sarrut/gate-exercices/tree/master)
 * GATE : [https://github.com/OpenGATE/Gate](https://github.com/OpenGATE/Gate)
 * GateContrib: examples of simulations [https://github.com/OpenGATE/Gate](https://github.com/OpenGATE/GateContrib)
 * Geant4: [http://geant4.cern.ch/support/download.shtml](http://geant4.cern.ch/support/download.shtml) 
