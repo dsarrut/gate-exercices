@@ -9,5 +9,5 @@
 * [Exercise5 - TLE](ex5.md)
 * [Exercise6 - TRT](ex6.md)
 * [Exercise7 - CBCT](ex7.md)
-* Installation help
+* [Installation help](installation-help.md)
 
