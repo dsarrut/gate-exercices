@@ -4,7 +4,7 @@ The example 4 illustrates the simulation of a linac head. We first show a full s
 
 ### Step 1
 
-Go into folder ```linac``` and run the simulations ```Gate mac/main.mac```.
+Go into folder ```linac``` and run the simulations ```Gate mac/main.mac```
 
 This simulation describe the irradiation of a waterbox from the linac head from the electron source. Look a the geometry and describe what is simulated. Explain the source. Explain the physical processes that occur. Investigate the time needed to obtain a dose distribution in the waterbox with a correct statistical uncertainty.
 
@@ -13,7 +13,7 @@ Figure from [[Grevillot2011]](https://www.creatis.insa-lyon.fr/site/en/publicati
 
 ### Step 2
 
-Now run the simulation ```Gate mac/main-write-PhS.mac```.
+Now run the simulation ```Gate mac/main-write-PhS.mac```
 
 Look a the geometry and describe what is simulated. Explain the source. Analyse the PhS with root: once the simulation is completed, type ```root``` to enter the root mode. Then, type ```TBrowser t``` to obtain a windows that will allow you to load the PhS. Explain what is the content of this PhS. Comment and look at the variance reduction technique in the macro file : what is the splitting ? Why ? Look at the options for generating a PhS, comment them. To exit root, type ```.q```.
 
