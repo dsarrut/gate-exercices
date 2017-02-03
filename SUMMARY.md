@@ -5,8 +5,8 @@
 * [Exercise2 - 3D](ex2.md)
 * [Exercise3 - proton](ex3.md)
 * [Exercise4 - Linac](ex4.md)
-* [Exercise5](ex5.md)
-* [Exercise6](ex6.md)
+* [Exercise5 - TLE](ex5.md)
+* [Exercise6 - TRT](ex6.md)
 * [Exercise7](ex7.md)
 * [Exercise8](ex8.md)
 

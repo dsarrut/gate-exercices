@@ -1,4 +1,4 @@
-# Exercise 6
+# Exercise 6 - TRT
 
 
 Targeted radionuclide therapy (TRT) delivers radiation to lesions by administration of radiolabeled molecular agents designed to specifically concentrate into targets. We want now to create a simulation of such a treatment (internal radiation therapy).
@@ -44,13 +44,13 @@ What are the differences in absorbed dose according to the radionuclides ?
 
 ### Step 3
 
-We will now learn to use a "voxelized source". This is an emitting source of particles described as a spatial distribution with a matrix of pixel intensity. Several SPECT images have been calibrated and merged together to produce a time-integrated activity emission map (TIA) associated with a patient CT. Consider the simulation that uses this TIA as a voxelized source, see macros ```main.mac``` and ```source-vox.mac``` in the folder ```internal-rt```. The pixels in the TIA image are expressed in MBq.h.
+We will now learn to use a "voxelized source". This is an emitting source of particles described as a spatial distribution with a matrix of pixel intensity. Several SPECT images have been calibrated and merged together to produce a time-integrated activity emission map (TIA) associated with a patient CT. Consider the simulation that uses this TIA as a voxelized source, see macros [main.mac](https://gitlab.in2p3.fr/david.sarrut/gate-exercices/blob/dc500b808cda44c24ff60e06125951b33ef8fbbe/internal-rt/mac/main.mac) and [source-vox.mac](https://gitlab.in2p3.fr/david.sarrut/gate-exercices/blob/dc500b808cda44c24ff60e06125951b33ef8fbbe/internal-rt/mac/source-vox.mac) in the folder ```internal-rt```. The pixels in the TIA image are expressed in MBq.h.
 
 Perform a simulation, analyze the results.
 
 
-<!-- ### Step 4 -->
+### Step 4
 
-<!-- Change the voxelized source to a simple ponctual source in the middle of the patient. Then, change the radionuclide, for example by using Lutetium-177 or Iode-131 or any radionuclides you like in http://www.nucleide.org/DDEP_WG/DDEPdata.htm. -->
+Change the voxelized source to a simple point source in the middle of the patient. Then, change the radionuclide, for example by using Lutetium-177 or Iode-131 or any radionuclides you like in http://www.nucleide.org/DDEP_WG/DDEPdata.htm. You may look at the [source-gps.mac](https://gitlab.in2p3.fr/david.sarrut/gate-exercices/blob/dc500b808cda44c24ff60e06125951b33ef8fbbe/internal-rt/mac/source-gps.mac) file. 
 
-<!-- What are the differences in absorbed dose according to the radionuclides ? -->
+What are the differences in absorbed dose according to the radionuclides ?
