@@ -1,4 +1,4 @@
-# Exercise 3
+# Exercise 3 (proton)
 
 Modify the beam to shoot 100 MeV proton instead of gamma (```ex3.mac```). Note that the physic-list has been changed. More information on the physic lists can be obtained:
  - http://geant4.cern.ch/support/proc_mod_catalog/physics_lists/useCases.shtml
