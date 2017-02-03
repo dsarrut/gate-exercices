@@ -20,6 +20,6 @@ Look a the geometry and describe what is simulated. Explain the source. Analyse 
 
 ### Step 3
 
-Run the simulation ```Gate mac/main-read-PhS.mac```.
+Run the simulation ```Gate mac/main-read-PhS.mac```
 
 This simulation uses the PhS as input, describe it. Compare the time needed to obtain a correct statistical uncertainty in the waterbox. You can use the phase-space in the folder ```results.MD6k/``` that was computed with more particles.

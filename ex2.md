@@ -1,4 +1,4 @@
-# Exercise 2
+# Exercise 2 (3D dose map)
 
 Change for 3D dose distribution as described in ```ex2.mac```. Describe all the outputs. Analyse the 3D distribution (with ```vv```) and the 3D uncertainty. Analyse the ```stat-pat.txt``` file (with gnuplot file ```plot-ex2.gp```). Change the parameters of the 3D dose actor. Comments.
 
