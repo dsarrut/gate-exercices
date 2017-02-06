@@ -33,7 +33,7 @@ Source codes:
 Question ? [david.sarrut@creatis.insa-lyon.fr](david.sarrut@creatis.insa-lyon.fr)
 
 
-&lt;!---  
+<!---  
 **DQPRM 2016**
 
 Add the following lines at the end of the file `.bashrc`.
@@ -46,5 +46,5 @@ export LD_LIBRARY_PATH=${LD_LIBRARY_PATH}:/opt/qt5/5.2.0/gcc_64/lib/:/usr/local/
 export PATH=/usr/local/simu/Gate-v7.2-install/bin:$PATH
 ```
 
---&gt;
+-->
 
