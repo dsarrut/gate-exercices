@@ -10,8 +10,8 @@ In summary:
 - download and install [GATE](http://github.com/OpenGATE/Gate)
 
 Main tools:
-- everything is in [C++](https://en.wikipedia.org/wiki/C%2B%2B)
-- all source code are stored in [git repositories](https://en.wikipedia.org/wiki/Git)
+- Everything is [C++](https://en.wikipedia.org/wiki/C%2B%2B)
+- Source codes are stored in [git repositories](https://en.wikipedia.org/wiki/Git)
 - [cmake](https://en.wikipedia.org/wiki/CMake) is used as build system
 
 Source code:
