@@ -4,7 +4,7 @@ This pages propose some exercises with the [GATE](https://github.com/OpenGATE/Ga
 
 In Gate, simulations are organized in a folder, with the following subfolders : `data`, `mac` and `output`. Macros files are stored in `mac`. Gate _must_ be run in the initial simulation folder, such as : `Gate mac/main.mac` \(don't forget the `mac/`\). The macros that make use of data _must_ refer to the `data/` subfolder.
 
-Follow the following exercises and provide a written report. The general idea it to try to understand **every commands** in the macro files to be able to analyze the results. Simulations macros may be found in this [zip](https://gitlab.in2p3.fr/david.sarrut/gate-exercices/raw/dffcae341499ed6f56756a03385e68467eca0d2a/releases/gate-exercices-v2.0.zip). For advanced user, the complete source code is available as a [git repository](https://gitlab.in2p3.fr/david.sarrut/gate-exercices) (required git-lfs). 
+Follow the following exercises and provide a written report. The general idea it to try to understand **every commands** in the macro files to be able to analyze the results. Simulations macros may be found in this [zip](https://gitlab.in2p3.fr/david.sarrut/gate-exercices/blob/master/releases/gate-exercices-v2.0.zip). For advanced user, the complete source code is available as a [git repository](https://gitlab.in2p3.fr/david.sarrut/gate-exercices) (required git-lfs). 
 
 ---
 Documents:
