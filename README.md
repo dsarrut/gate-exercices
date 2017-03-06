@@ -9,7 +9,7 @@ Follow the following exercises and provide a written report. The general idea it
 ---
 Documents:
 * Click [here for a pdf](https://www.gitbook.com/download/pdf/book/dsarrut/gate-exercises) version of this ebook
-* Some [Slides](https://gitlab.in2p3.fr/david.sarrut/gate-exercices/blob/b7383664e69deca32db7b5e8cd3bfa9c4d1e7cdc/slides/simulation-dqprm-2016.pdf) (2016 version, not yet up to date)
+* Some [slides](https://gitlab.in2p3.fr/david.sarrut/gate-exercices/raw/master/slides/simulation-dqprm-2017.pdf)
 * Linux command line help: [Pocket guide](http://www.cheatography.com/kesavanbr/cheat-sheets/pocket-guide-linux-commands) or [Cmd line](http://www.cheatography.com/davechild/cheat-sheets/linux-command-line)
 * Gate documentation can be found [here](http://wiki.opengatecollaboration.org/index.php/Users_Guide_V7.2)
 * List of [radionuclides](http://www.nucleide.org/DDEP_WG/DDEPdata.htm)
@@ -25,8 +25,8 @@ To analyze simulations, you need additional software. For example:
 Source codes:
 
 * Browse the code of the [exercices](https://gitlab.in2p3.fr/david.sarrut/gate-exercices/tree/master)
-* GATE : [https://github.com/OpenGATE/Gate](https://github.com/OpenGATE/Gate)
-* GateContrib: examples of simulations [https://github.com/OpenGATE/Gate](https://github.com/OpenGATE/GateContrib)
+* GATE : [source code](https://github.com/OpenGATE/Gate)
+* [GateContrib](https://github.com/OpenGATE/GateContrib): examples of simulations
 * Geant4: [http://geant4.cern.ch/support/download.shtml](http://geant4.cern.ch/support/download.shtml) 
 
 ---
