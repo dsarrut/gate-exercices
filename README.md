@@ -6,7 +6,7 @@ In Gate, simulations are organized in a folder, with the following subfolders : 
 
 Follow the following exercises and provide a written report. The general idea it to try to understand **every commands** in the macro files to be able to analyze the results. 
 
-**START HERE** : simulations macros may be found in this [zip](https://gitlab.in2p3.fr/david.sarrut/gate-exercices/blob/master/releases/gate-exercices-v2.0.zip). Download and unzip all the files.
+**START HERE** : simulations macros may be found in this [zip](https://gitlab.in2p3.fr/david.sarrut/gate-exercices/raw/master/releases/gate-exercices-v2.1.zip). Download and unzip all the files.
 
 ---
 Documents:
@@ -15,7 +15,8 @@ Documents:
 * Linux command line help: [Pocket guide](http://www.cheatography.com/kesavanbr/cheat-sheets/pocket-guide-linux-commands) or [Cmd line](http://www.cheatography.com/davechild/cheat-sheets/linux-command-line)
 * Gate documentation can be found [here](http://wiki.opengatecollaboration.org/index.php/Users_Guide_V7.2)
 * List of [radionuclides](http://www.nucleide.org/DDEP_WG/DDEPdata.htm)
-* For advanced user, the complete source code is available as a [git repository](https://gitlab.in2p3.fr/david.sarrut/gate-exercices) (required git-lfs). 
+* For advanced user, the complete source code is available as a [git repository](https://gitlab.in2p3.fr/david.sarrut/gate-exercices) 
+ (required git-lfs). 
 
 
 To analyze simulations, you need additional software. For example:
