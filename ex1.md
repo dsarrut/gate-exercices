@@ -6,7 +6,9 @@ Go into the folder `cd exercices`. Read carefully the file `mac/ex1.mac` to unde
 
 Run the simulation with `Gate mac/ex1.mac` and analyze the results. Describe all the outputs. Display the curves \(with gnuplot or matlab or excel or R ...\). For example, if you want to use gnuplot, go in the `gp` folder, type `gnuplot`. Then type `load "plot-ex1.gp"`. Look the content of the file `plot-ex1.gp` to understand how the plot is created.
 
-Back to Gate macros. You can play with the verbose options in the verbose.mac file and with the commands `/tracking/verbose`. For this later command, use `Gate mac/ex1.mac | more` to display the terminal output page by page. Warning, using verbose may increase the computation time, you should only use large verbose value for debug purpose not for production.
+Back to Gate macros. You can play with the verbose options in the verbose.mac file and with the commands: `/tracking/verbose 2` (change the number to increase the verbosity).
+
+For this later command, use `Gate mac/ex1.mac | more` to display the terminal output page by page. Warning, using verbose may increase the computation time, you should only use large verbose value for debug purpose not for production. You may also use `Gate mac/ex1.mac > result.txt` it will create a file named `result.txt` that will contains all text written on the screen by Gate. 
 
 In most of the macro, you can enable visualization with two steps: 1\) uncomment the line in the macro that include the file `mac/visu.mac` and 2\) execute Gate with the `--qt` option : `Gate --qt mac/ex1.mac`. Be careful to reduce the number of primaries to a very low number \(around 10 max\) before launching the visualization.
 
