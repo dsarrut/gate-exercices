@@ -29,7 +29,7 @@ Do not forget to add the radioactive decay process:
     /gate/physics/addPhysicsList emstandard_opt3
 ```
 
-Use a [Filter](http://wiki.opengatecollaboration.org/index.php/Users_Guide_V7.2:Readout_parameters_for_Radiotherapy_applications:_Actors#Filters) to record separately the energy spectrums for e- and gamma.
+Use a [Filter](http://wiki.opengatecollaboration.org/index.php/Users_Guide:Tools_to_Interact_with_the_Simulation_:_Actors#Filters) to record separately the energy spectrums for e- and gamma.
 
 Analyze the emitted e- and gamma from other radionuclides used for treatment, for example Lutetium-177 or Iode-131. You may also consider radionuclides used for imaging: Indium-111 (spect), Gallium-68 (pet) or Fluor-18 (pet).
 
@@ -44,13 +44,13 @@ What are the differences in absorbed dose according to the radionuclides ?
 
 ### Step 3
 
-We will now learn to use a "voxelized source". This is an emitting source of particles described as a spatial distribution with a matrix of pixel intensity. Several SPECT images have been calibrated and merged together to produce a time-integrated activity emission map (TIA) associated with a patient CT. Consider the simulation that uses this TIA as a voxelized source, see macros [main.mac](https://gitlab.in2p3.fr/david.sarrut/gate-exercices/blob/dc500b808cda44c24ff60e06125951b33ef8fbbe/internal-rt/mac/main.mac) and [source-vox.mac](https://gitlab.in2p3.fr/david.sarrut/gate-exercices/blob/dc500b808cda44c24ff60e06125951b33ef8fbbe/internal-rt/mac/source-vox.mac) in the folder ```internal-rt```. The pixels in the TIA image are expressed in MBq.h.
+We will now learn to use a "voxelized source". This is an emitting source of particles described as a spatial distribution with a matrix of pixel intensity. Several SPECT images have been calibrated and merged together to produce a time-integrated activity emission map (TIA) associated with a patient CT. Consider the simulation that uses this TIA as a voxelized source, see macros [main.mac](https://gitlab.in2p3.fr/david.sarrut/gate-exercices/blob/master/internal-rt/mac/main.mac) and [source-vox.mac](https://gitlab.in2p3.fr/david.sarrut/gate-exercices/blob/master/internal-rt/mac/source-vox.mac) in the folder ```internal-rt```. The pixels in the TIA image are expressed in MBq.h.
 
 Perform a simulation, analyze the results.
 
 
 ### Step 4
 
-Change the voxelized source to a simple point source in the middle of the patient. Then, change the radionuclide, for example by using Lutetium-177 or Iode-131 or any radionuclides you like in http://www.nucleide.org/DDEP_WG/DDEPdata.htm. You may look at the [source-gps.mac](https://gitlab.in2p3.fr/david.sarrut/gate-exercices/blob/dc500b808cda44c24ff60e06125951b33ef8fbbe/internal-rt/mac/source-gps.mac) file. 
+Change the voxelized source to a simple point source in the middle of the patient. Then, change the radionuclide, for example by using Lutetium-177 or Iode-131 or any radionuclides you like in http://www.nucleide.org/DDEP_WG/DDEPdata.htm. You may look at the [source-gps.mac](https://gitlab.in2p3.fr/david.sarrut/gate-exercices/blob/master/internal-rt/mac/source-gps.mac) file. 
 
 What are the differences in absorbed dose according to the radionuclides ?
