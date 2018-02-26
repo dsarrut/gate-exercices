@@ -1,7 +1,7 @@
 # Exercise 6 (TRT)
 
 
-Targeted radionuclide therapy (TRT) delivers radiation to lesions by administration of radiolabeled molecular agents designed to specifically concentrate into targets. We want now to create a simulation of such a treatment (internal radiation therapy).
+Targeted radionuclide therapy (TRT) delivers radiation to lesions by administration of radiolabeled molecular agents designed to specifically concentrate into targets. We want now to create a simulation of such a treatment (internal radiation therapy). Macros will be in the folder `internal-rt`.
 
 
 ### Step 1
@@ -54,3 +54,8 @@ Perform a simulation, analyze the results.
 Change the voxelized source to a simple point source in the middle of the patient. Then, change the radionuclide, for example by using Lutetium-177 or Iode-131 or any radionuclides you like in http://www.nucleide.org/DDEP_WG/DDEPdata.htm. You may look at the [source-gps.mac](https://gitlab.in2p3.fr/david.sarrut/gate-exercices/blob/master/internal-rt/mac/source-gps.mac) file. 
 
 What are the differences in absorbed dose according to the radionuclides ?
+
+### Step 5 (optional)
+
+The folder `brachytherapy` contains macros for performing simplified brachytherapy simulations. 
+
