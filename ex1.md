@@ -4,7 +4,7 @@
 
 Go into the folder `cd exercices`. Read carefully the file `mac/ex1.mac` to understand what is the purpose of the simulation. Note: the command `/control/execute <filename>` includes the content of the give file. This command allows to split simulation macros in several files.
 
-Run the simulation with `Gate mac/ex1.mac` and analyze the results. Describe all the outputs. Display the curves \(with gnuplot or matlab or excel or R ...\). For example, if you want to use gnuplot, go in the `gp` folder, type `gnuplot`. Then type `load "plot-ex1.gp"`. Look the content of the file `plot-ex1.gp` to understand how the plot is created.
+Run the simulation with `Gate mac/ex1.mac` and analyze the results. Describe all the outputs. Display the curves (with python or gnuplot or matlab or excel or R ...). For example, you can plot the curve with python by typing `./py/plot.py` from the folder `exercices`. Look at the file `./py/plot.py`, it use python code to load the output file of the simulation and create curves. 
 
 Back to Gate macros. You can play with the verbose options in the verbose.mac file and with the commands: `/tracking/verbose 2` (change the number to increase the verbosity).
 
