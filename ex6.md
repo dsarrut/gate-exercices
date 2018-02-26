@@ -59,3 +59,6 @@ What are the differences in absorbed dose according to the radionuclides ?
 
 The folder `brachytherapy` contains macros for performing simplified brachytherapy simulations. 
 
+
+![](/assets/simu-trt.png)
+
