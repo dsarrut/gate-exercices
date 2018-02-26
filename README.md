@@ -6,7 +6,7 @@ In Gate, simulations are organized in a folder, with the following subfolders : 
 
 Follow the following exercises and provide a written report. The general idea it to try to understand **every commands** in the macro files to be able to analyze the results. 
 
-**START HERE** : simulations macros may be found in this [zip](https://gitlab.in2p3.fr/david.sarrut/gate-exercices/raw/master/releases/gate-exercices-v2.2.zip). Download and unzip all the files.
+**START HERE** : simulations macros may be found in this [zip](https://gitlab.in2p3.fr/david.sarrut/gate-exercices/raw/master/releases/gate-exercices-v3.0.zip). Download and unzip all the files.
 
 ---
 Documents:
