@@ -4,6 +4,8 @@ Change for 3D dose distribution as described in ```ex2.mac```. Describe all the 
 
 Example of command for vv : ```vv data/patient-2mm.mhd --fusion output/3d-pat-Edep.mhd``` to superimpose the computed edep to the CT image.
 
+In addition to the 3D "edep" map, depth and transverse profiles are output in txt files `depth-pat.txt` and `profile-pat.txt`. You may want to write a python script to plot those curves. 
+
 ### Notes on coordinates systems
 
 An image, in particular a medical image, is always associated with a coordinate systems.
