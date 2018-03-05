@@ -40,18 +40,4 @@ Source codes:
 
 Question ? [david.sarrut@creatis.insa-lyon.fr](david.sarrut@creatis.insa-lyon.fr)
 
-&lt;!---  
-**DQPRM 2016**
-
-Add the following lines at the end of the file `.bashrc`.
-
-```
-source /opt/root-5.34/bin/thisroot.sh
-source /usr/local/simu/geant4.10.02.p01-install/bin/geant4.sh
-export PATH=${PATH}:/usr/local/simu/geant4.10.2.p01-install/bin
-export LD_LIBRARY_PATH=${LD_LIBRARY_PATH}:/opt/qt5/5.2.0/gcc_64/lib/:/usr/local/simu/geant4.10.2.p01-install/lib64
-export PATH=/usr/local/simu/Gate-v7.2-install/bin:$PATH
-```
-
---&gt;
 
