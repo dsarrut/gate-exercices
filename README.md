@@ -27,7 +27,7 @@ To analyse simulations, you need additional software. For example:
 * We recommend learning [python](https://www.python.org/) for data analysis. Some online tutorials: 
   * [https://www.learnpython.org](https://www.learnpython.org/)
   * [https://www.codecademy.com/learn/learn-python](/ https://www.codecademy.com/learn/learn-python)
-  * search for "python tutorial" to find the one for you
+  * many others available ...
 
 Source codes:
 
