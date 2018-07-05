@@ -1,4 +1,4 @@
-# Some exercises with GATE
+# Introduction
 
 This pages propose some exercises with the [GATE](https://github.com/OpenGATE/Gate) software developed by the [Opengate](http://www.opengatecollaboration.org) collaboration. GATE is a a software that allows to perform various Monte-Carlo simulations in **medical physics**.
 
@@ -8,8 +8,6 @@ Follow the following exercises and provide a written report. The general idea it
 
 **START HERE** : simulations macros may be found in this [zip](https://gitlab.in2p3.fr/david.sarrut/gate-exercices/raw/master/releases/gate-exercices-v3.0.zip). Download and unzip all the files.
 
----
-
 Documents:
 
 * Click [here for a pdf](https://www.gitbook.com/download/pdf/book/dsarrut/gate-exercises) version of this ebook
@@ -18,6 +16,7 @@ Documents:
 * Gate documentation can be found [here](http://wiki.opengatecollaboration.org/index.php/Users_Guide_V7.2)
 * List of [radionuclides](http://www.nucleide.org/DDEP_WG/DDEPdata.htm)
 * For advanced user, the complete source code is available as a [git repository](https://gitlab.in2p3.fr/david.sarrut/gate-exercices) 
+
   \(required git-lfs\). 
 
 To analyse simulations, you need additional software. For example:
@@ -26,7 +25,7 @@ To analyse simulations, you need additional software. For example:
 * Nuclear physics toolkit: [root](https://root.cern.ch)
 * We recommend learning [python](https://www.python.org/) for data analysis. Some online tutorials: 
   * [https://www.learnpython.org](https://www.learnpython.org/)
-  * [https://www.codecademy.com/learn/learn-python](/ https://www.codecademy.com/learn/learn-python)
+  * [https://www.codecademy.com/learn/learn-python](https://github.com/dsarrut/gate-exercices/tree/472581a5d455479f430d5dae8c14dd270f8479b6/%20https:/www.codecademy.com/learn/learn-python/README.md)
   * many others available ...
 
 Source codes:
@@ -36,8 +35,5 @@ Source codes:
 * [GateContrib](https://github.com/OpenGATE/GateContrib): examples of simulations
 * Geant4: [http://geant4.cern.ch/support/download.shtml](http://geant4.cern.ch/support/download.shtml) 
 
----
-
-Question ? [david.sarrut@creatis.insa-lyon.fr](david.sarrut@creatis.insa-lyon.fr)
-
+Question ? [david.sarrut@creatis.insa-lyon.fr](https://github.com/dsarrut/gate-exercices/tree/472581a5d455479f430d5dae8c14dd270f8479b6/david.sarrut@creatis.insa-lyon.fr)
 

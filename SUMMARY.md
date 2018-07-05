@@ -1,13 +1,14 @@
-# Summary
+# Table of contents
 
 * [Introduction](README.md)
 * [Installation help](installation-help.md)
-* [Exercise1 - start](ex1.md)
-* [Exercise2 - 3D](ex2.md)
-* [Exercise3 - Proton](ex3.md)
-* [Exercise4 - Linac](ex4.md)
-* [Exercise5 - TLE](ex5.md)
-* [Exercise6 - TRT](ex6.md)
-* [Exercise7 - CBCT](ex7.md)
-* [Exercice8 - SPECT](exercice8-spect.md)
+* [Overview](overview.md)
+* [Exercise1 - start](exercise1-start.md)
+* [Exercise2 - 3D](exercise2-3d.md)
+* [Exercise3 - Proton](exercise3-proton.md)
+* [Exercise4 - Linac](exercise4-linac.md)
+* [Exercise5 - TRT](exercise6-trt.md)
+* [Exercice6 - SPECT](exercice8-spect.md)
+* [Exercise7 - TLE \[VRT\]](exercise5-tle.md)
+* [Exercise8 - CBCT \[VRT\]](exercise7-cbct.md)
 
