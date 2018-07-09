@@ -24,7 +24,7 @@ Change the target \(the phantom\). Insert for example an aluminum box somewhere 
 
 Modify the `DoseActor`. Change parameters: size, resolution, voxel size, position etc \(but keep 1D measurements and .txt file format\). Observe the results and comments.
 
-## Step 5
+## Step 5 \(analysis\)
 
 Got the the python notebook to start interactive analysis : [http://localhost:8889/notebooks/exercice%20dose%20depth%20profile.ipynb](http://localhost:8889/notebooks/exercice%20dose%20depth%20profile.ipynb)
 

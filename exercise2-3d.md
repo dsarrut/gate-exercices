@@ -28,3 +28,7 @@ However, two additional features are available within Gate:
 
 * when an actor, in particular a `DoseActor` is attached to an image, the resulting dose images will be written on disk by taking into account the origin of the image. Hence, it will be easy to overlay the dose on the image. 
 
+## Analysis
+
+Use the python notebook to display and analyse the 3D distribution map: [http://localhost:8889/notebooks/exercice%20dose%20map%20analysis.ipynb](http://localhost:8889/notebooks/exercice%20dose%20map%20analysis.ipynb)
+
