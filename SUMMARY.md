@@ -2,7 +2,7 @@
 
 * [Welcome](README.md)
 * [Overview](overview/README.md)
-  * [DQPRM introduction](overview/untitled.md)
+  * [DQPRM introduction](overview/dqprm.md)
 * [Ressources](ressources.md)
 * [Exercise1 - start](exercise1-start.md)
 * [Exercise2 - 3D](exercise2-3d.md)
