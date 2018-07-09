@@ -1,4 +1,4 @@
-# Installation help
+# GATE Installation help
 
 **DQPRM students: the indications below are not needed for you, Gate is already installed.**
 
